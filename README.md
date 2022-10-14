@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , soy Damian Bravo</h1>
+<h1 align="center">Hi 👋 ,i am  Damian Bravo</h1>
 <h3 align="center">Un apasionado desarrollador de JAVA y python de Argentina</h3>
 
 - 💬 Pregúntame sobre **JAVA, PYTHON, MYSQL**
